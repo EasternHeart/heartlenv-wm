@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+_Name=Workspaces
+_Comment=Set number and names of workspaces
+Exec=xfwm4-workspace-settings
+Icon=xfce4-workspaces
+Terminal=false
+Type=Application
+Categories=X-XFCE;Settings;DesktopSettings;X-XfceSettingsDialog;
+StartupNotify=true
+OnlyShowIn=XFCE;
+X-XfcePluggable=true
+X-XfceHelpFile=xfwm4.html
